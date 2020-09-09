@@ -1,0 +1,2 @@
+# Medical_Information_Extraction
+Extracting Clinical Relationships from Patient Narratives
