@@ -1,6 +1,6 @@
-# Extracting Clinical Relationships from Patient Narratives
+# FIAMED: Formação IA Aplicada à Medicina da Data Science Academy
 
-Extração de Entidades e Relacionamentos de Dados Clínicos
+# Projeto: Extração de Entidades e Relacionamentos de Dados Clínicos
 
 Neste projeto, estarei analisando um conjunto de dados que contém 3.984 sentenças médicas extraídas dos resumos do PubMed e as relações entre termos médicos distintos que foram anotadas. Este conjunto de dados se concentra principalmente nas relações de "tratar" e "causar", com 1.043 sentenças contendo relações de tratamento e 1.787 contendo relações causais.
 
